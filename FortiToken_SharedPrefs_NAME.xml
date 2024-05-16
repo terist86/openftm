@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="tarball-hash">fa30fcbe-34e9-405d-9399-b0189b33be6b</string>
+    <boolean name="IsFirstUse" value="false" />
+    <string name="AllowWarnDenyInvalidCert">allow</string>
+    <boolean name="TouchIdEnabled" value="true" />
+    <int name="PINLength" value="4" />
+    <string name="FirebaseId">czrKZibKRveJf9OXbLxLyK:APA91bHlPtiVlK5ftw3nxA7EQbzzARutQUb7gnMONdbJ7uaZzADXy6XyR58pybGkLvoaWUhuiXfBCKxPQJW55YjdYWf-at5EdIbITAVbII4EbuTMAGU3S3asQwZ1fkT_zmrHcexxZKZf</string>
+    <string name="PINCode">A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=</string>
+    <string name="SerialNumberPreAndroid9">TOKENSERIALunknown</string>
+    <int name="PINLengthCurrent" value="4" />
+    <string name="BrandingImage"></string>
+    <string name="PINRequired">Y</string>
+    <string name="UUID">5MDgCE66asZK0WPiO0IS51k6oI4am7kjeqwHLCcPRo+ou0uA1aZuFaNHfUe9fpVP</string>
+    <int name="PINRequiredType" value="2" />
+    <string name="latestFacSerial">FAC-VMTM18004378</string>
+    <int name="StoredVersionCode" value="503030086" />
+</map>
